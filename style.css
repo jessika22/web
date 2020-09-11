@@ -1,0 +1,29 @@
+@charset "utf-8";
+/*css document*/
+
+
+body{
+	margin: 0 20px;
+}
+h1 {
+	text-align: center;
+	color: #910f15;
+}
+.subhead{
+	margin-left: 40px;
+}
+#primero {
+	text-align: center;
+	color: #910f15;
+}	
+li {
+	display:inline;
+}
+p {
+	
+	color: #2e1359;
+}
+#foot {
+	color: black;
+	text-align: left;
+}
